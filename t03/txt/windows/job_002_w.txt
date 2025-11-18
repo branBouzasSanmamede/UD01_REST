@@ -1,0 +1,14 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 4C5B-EF66
+
+ Directorio de C:\Users\bran\Desktop\_temp
+
+18/11/2025  04:56    <DIR>          .
+17/11/2025  15:27    <DIR>          ..
+18/11/2025  05:01               368 index.py
+18/11/2025  05:50    <DIR>          t03
+18/11/2025  05:16    <DIR>          t05
+18/11/2025  04:53    <DIR>          t06
+18/11/2025  04:53    <DIR>          utils
+               1 archivos            368 bytes
+               6 dirs  349.577.658.368 bytes libres
